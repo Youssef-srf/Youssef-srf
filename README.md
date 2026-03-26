@@ -64,21 +64,6 @@
 
 <br>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-srf&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Youssef's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-srf&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-srf&theme=nord&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📫 Let's Connect!
 
 <div align="center">
